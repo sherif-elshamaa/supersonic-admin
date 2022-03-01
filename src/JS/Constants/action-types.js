@@ -1,0 +1,14 @@
+export const IS_AUTHORISED = "IS_AUTHORISED";
+export const SIGNOUT = "SIGNOUT";
+export const POST_TOAST = "POST_TOAST";
+export const GET_SUBSCRIBERS = "GET_SUBSCRIBERS";
+export const GET_SUBSCRIBERS_DATA = "GET_SUBSCRIBERS_DATA";
+export const GET_SUBSCRIPTIONS = "GET_SUBSCRIPTIONS";
+export const GET_CONTACT_US = "GET_CONTACT_US";
+export const GET_TICKETS = "GET_TICKETS";
+export const GET_INVOICE = "GET_INVOICE";
+export const GET_PLANS = "GET_PLANS";
+export const EDIT_PLANS = "EDIT_PLANS";
+export const CLOSE_TICKET = "CLOSE_TICKET";
+export const SEND_EMAIL = "SEND_EMAIL";
+export const DEL_ACCOUNT = "DEL_ACCOUNT";
